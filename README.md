@@ -1,0 +1,1 @@
+# resumo-lab-dio-gerenciamento-e-a-otimiza-o-de-custos-na-azure
